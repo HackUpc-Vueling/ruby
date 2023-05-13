@@ -208,8 +208,6 @@ GEM
       railties (>= 6.0.0)
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2023.3)
-      tzinfo (>= 1.0.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -246,12 +244,11 @@ DEPENDENCIES
   sqlite3 (= 1.4.2)
   stimulus-rails (= 1.0.4)
   turbo-rails (= 1.1.1)
-  tzinfo-data
   web-console (= 4.2.0)
   webdrivers (= 5.0.0)
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.3.14
